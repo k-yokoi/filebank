@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-filebank-dev-93745-authRole",
+            "UnauthRoleArn": "arn:aws:iam::981946863041:role/amplify-filebank-dev-93745-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::981946863041:role/amplify-filebank-dev-93745-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-filebank-dev-93745-deployment",
+            "UnauthRoleName": "amplify-filebank-dev-93745-unauthRole",
+            "StackName": "amplify-filebank-dev-93745",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:981946863041:stack/amplify-filebank-dev-93745/6e47e580-41be-11ec-b0c5-06680d75238d",
+            "AmplifyAppId": "d2il4855dfcxyv"
+        },
+        "categories": {
+            "auth": {
+                "filebank9fa8466a": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2il4855dfcxyv",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
